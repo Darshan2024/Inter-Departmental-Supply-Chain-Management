@@ -23,11 +23,11 @@ A centralized web-based platform designed to streamline communication and coordi
 
 | Department Admin | Admin (Primary) |
 |------------------|------------------|
-| ![Department Admin](assets/screenshots/department-admin-dashboard.png) | ![Admin Primary](assets/screenshots/admin-primary-dashboard.png) |
+| ![Department Admin](assets/screenshots/department_admin_dashboard.png) | ![Admin Primary](assets/screenshots/admin_primary_dashboard.png) |
 
 | Admin (Secondary) | Client Dashboard |
 |-------------------|------------------|
-| ![Admin Secondary](assets/screenshots/admin-secondary-dashboard.png) | ![Client](assets/screenshots/client-dashboard.png) |
+| ![Admin Secondary](assets/screenshots/admin_secondary_dashboard.png) | ![Client](assets/screenshots/client_dashboard.png) |
 
 > 💡 Add your real screenshots under `assets/screenshots/` and update filenames accordingly
 
